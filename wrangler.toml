@@ -1,4 +1,4 @@
-name = "jkt" # todo
+name = "one" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -8,93 +8,93 @@ compatibility_date = "2023-05-26"
 workers_dev = true
 
 [[routes]]
-pattern = "jkt.firmwarecustom.my.id"
+pattern = "one.firmwarecustom.my.id"
 custom_domain = true
 
 [[routes]]
-pattern = "quiz.int.vidio.com.jkt.firmwarecustom.my.id"
+pattern = "quiz.int.vidio.com.one.firmwarecustom.my.id"
 custom_domain = true
 
 [[routes]]
-pattern = "stkipnurulhuda.ac.id.jkt.firmwarecustom.my.id"
+pattern = "stkipnurulhuda.ac.id.one.firmwarecustom.my.id"
 custom_domain = true
 
 [[routes]]
-pattern = "quiz.vidio.com.jkt.firmwarecustom.my.id"
+pattern = "quiz.vidio.com.one.firmwarecustom.my.id"
 custom_domain = true
 
 [[routes]]
-pattern = "ava.game.naver.com.jkt.firmwarecustom.my.id"
+pattern = "ava.game.naver.com.one.firmwarecustom.my.id"
+custom_domain = true
+
+#[[routes]]
+#pattern = "df.game.naver.com.one.firmwarecustom.my.id"
+#custom_domain = true
+
+[[routes]]
+pattern = "quiz.vidio.com.one.firmwarecustom.my.id"
 custom_domain = true
 
 [[routes]]
-pattern = "df.game.naver.com.jkt.firmwarecustom.my.id"
+pattern = "quiz.int.vidio.com.one.firmwarecustom.my.id"
+custom_domain = true
+
+#[[routes]]
+#pattern = "graph.instagram.com.one.firmwarecustom.my.id"
+#custom_domain = true
+
+[[routes]]
+pattern = "investors.spotify.com.one.firmwarecustom.my.id"
+custom_domain = true
+
+#[[routes]]
+#pattern = "cache.netflix.com.one.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "creativeservices.netflix.com.one.firmwarecustom.my.id"
+#custom_domain = true
+
+[[routes]]
+pattern = "support.zoom.us.one.firmwarecustom.my.id"
 custom_domain = true
 
 [[routes]]
-pattern = "quiz.vidio.com.jkt.firmwarecustom.my.id"
+pattern = "zaintest.vuclip.com.one.firmwarecustom.my.id"
 custom_domain = true
 
 [[routes]]
-pattern = "quiz.int.vidio.com.jkt.firmwarecustom.my.id"
+pattern = "live.iflix.com.one.firmwarecustom.my.id"
 custom_domain = true
 
 [[routes]]
-pattern = "graph.instagram.com.jkt.firmwarecustom.my.id"
+pattern = "io.ruangguru.com.one.firmwarecustom.my.id"
 custom_domain = true
 
 [[routes]]
-pattern = "investors.spotify.com.jkt.firmwarecustom.my.id"
+pattern = "gw.ruangguru.com.one.firmwarecustom.my.id"
 custom_domain = true
 
-[[routes]]
-pattern = "cache.netflix.com.jkt.firmwarecustom.my.id"
-custom_domain = true
+#[[routes]]
+#pattern = "data.mt.one.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "www.udemy.com.one.firmwarecustom.my.id"
+#custom_domain = true
 
 [[routes]]
-pattern = "creativeservices.netflix.com.jkt.firmwarecustom.my.id"
-custom_domain = true
-
-[[routes]]
-pattern = "support.zoom.us.jkt.firmwarecustom.my.id"
-custom_domain = true
-
-[[routes]]
-pattern = "zaintest.vuclip.com.jkt.firmwarecustom.my.id"
-custom_domain = true
-
-[[routes]]
-pattern = "live.iflix.com.jkt.firmwarecustom.my.id"
-custom_domain = true
-
-[[routes]]
-pattern = "io.ruangguru.com.jkt.firmwarecustom.my.id"
-custom_domain = true
-
-[[routes]]
-pattern = "gw.ruangguru.com.jkt.firmwarecustom.my.id"
-custom_domain = true
-
-[[routes]]
-pattern = "data.mt.jkt.firmwarecustom.my.id"
-custom_domain = true
-
-[[routes]]
-pattern = "www.udemy.com.jkt.firmwarecustom.my.id"
-custom_domain = true
-
-[[routes]]
-pattern = "udemy.com.jkt.firmwarecustom.my.id"
+pattern = "udemy.com.one.firmwarecustom.my.id"
 custom_domain = true
 
 
 [[routes]]
-pattern = "beta.zoom.us.jkt.firmwarecustom.my.id"
+pattern = "beta.zoom.us.one.firmwarecustom.my.id"
 custom_domain = true
 
-[[routes]]
-pattern = "zoomgov.jkt.firmwarecustom.my.id"
-custom_domain = true
+#[[routes]]
+#pattern = "zoomgov.one.firmwarecustom.my.id"
+#custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
@@ -103,4 +103,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "20724e3a-8ef0-483a-8dad-663cf6bdf8da"
+UUID = "042dd116-5675-495e-aaa3-44e9595f131b"
