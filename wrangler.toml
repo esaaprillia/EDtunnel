@@ -5,83 +5,83 @@ compatibility_date = "2023-05-26"
 workers_dev = true
 
 [[routes]]
-pattern = "live.wifiku.site"
+pattern = "wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "quiz.int.vidio.com.live.wifiku.site"
+pattern = "quiz.int.vidio.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "stkipnurulhuda.ac.id.live.wifiku.site"
+pattern = "stkipnurulhuda.ac.id.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "quiz.vidio.com.live.wifiku.site"
+pattern = "quiz.vidio.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "ava.game.naver.com.live.wifiku.site"
+pattern = "ava.game.naver.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "bakrie.ac.id.live.wifiku.site"
+pattern = "bakrie.ac.id.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "quiz.vidio.com.live.wifiku.site"
+pattern = "quiz.vidio.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "quiz.int.vidio.com.live.wifiku.site"
+pattern = "quiz.int.vidio.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "graph.instagram.com.live.wifiku.site"
+pattern = "graph.instagram.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "investors.spotify.com.live.wifiku.site"
+pattern = "investors.spotify.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "cache.netflix.com.live.wifiku.site"
+pattern = "cache.netflix.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "creativeservices.netflix.com.live.wifiku.site"
+pattern = "creativeservices.netflix.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "support.zoom.us.live.wifiku.site"
+pattern = "support.zoom.us.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "zaintest.vuclip.com.live.wifiku.site"
+pattern = "zaintest.vuclip.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "live.iflix.com.live.wifiku.site"
+pattern = "iflix.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "io.ruangguru.com.live.wifiku.site"
+pattern = "io.ruangguru.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "gw.ruangguru.com.live.wifiku.site"
+pattern = "gw.ruangguru.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "www.udemy.com.live.wifiku.site"
+pattern = "www.udemy.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "udemy.com.live.wifiku.site"
+pattern = "udemy.com.wifiku.site"
 custom_domain = true
 
 [[routes]]
-pattern = "beta.zoom.us.live.wifiku.site"
+pattern = "beta.zoom.us.wifiku.site"
 custom_domain = true
 
 [vars]
