@@ -4,6 +4,95 @@ compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
+[[routes]]
+pattern = "bakrie.ac.id.firmwarecustom.my.id"
+custom_domain = true
+
+#[[routes]]
+#pattern = "quiz.int.vidio.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "stkipnurulhuda.ac.id.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "quiz.vidio.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "ava.game.naver.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "bakrie.ac.id.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "quiz.vidio.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "quiz.int.vidio.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "graph.instagram.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "investors.spotify.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "cache.netflix.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "creativeservices.netflix.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "support.zoom.us.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "zaintest.vuclip.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "live.iflix.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "io.ruangguru.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "gw.ruangguru.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "data.mt.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "www.udemy.com.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "udemy.com.firmwarecustom.my.id"
+#custom_domain = true
+
+
+#[[routes]]
+#pattern = "beta.zoom.us.firmwarecustom.my.id"
+#custom_domain = true
+
+#[[routes]]
+#pattern = "zoomgov.firmwarecustom.my.id"
+#custom_domain = true
+
 [vars]
 # PROXYIP = "211.230.110.231:50008"
 UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
